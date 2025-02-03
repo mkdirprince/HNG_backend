@@ -16,5 +16,5 @@ The repository is structured into stages as follows:
 To get started, clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mkdirprince/HNG_backend
 ```
