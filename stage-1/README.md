@@ -98,6 +98,6 @@ This API is deployed on [Fly.io](https://fly.io), a platform that provides fast 
 
 You can access the live API at the following URL:
 
-[Deployed API URL]()
+[classify-number](https://classify-number.fly.dev/api/classify-number)
 
 Feel free to test the API using the deployed endpoint.
