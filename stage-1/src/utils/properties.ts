@@ -1,17 +1,17 @@
 export const properties = (isArmstrong: boolean, isEven: boolean) => {
-  const res = [];
+	const res = [];
 
-  if (isArmstrong) {
-    res.push("armstrong");
-  }
+	if (isArmstrong) {
+		res.push("armstrong");
+	}
 
-  if (!isEven) {
-    res.push("odd");
-  }
+	if (!isEven) {
+		res.push("odd");
+	}
 
-  if (isEven) {
-    res.push("even");
-  }
+	if (isEven) {
+		res.push("even");
+	}
 
-  return res;
+	return res;
 };
